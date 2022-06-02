@@ -1,0 +1,62 @@
+#header{
+  width: 1519px;     
+  height: 120px;   
+  
+  outline: 2px solid #000;
+ 
+  background-size: 100% auto;
+  background-size: 100% auto;
+  margin-left:0px;
+margin-right:0px;
+
+}
+#navigation {
+  width: 1519px;     
+  height: 78px; 
+           }
+body {
+  width: 1519px;
+
+  margin: auto;
+  background-image: url("2.jpg");
+  display: block;
+
+}
+.text-block {
+margin-left:50px;
+font-size: 52px;
+font-family: "Kanit"
+}
+.center {
+  text-align: center;
+}
+#content{
+  width: 1519px;
+  height: 700px;
+  outline: 2px solid #000;
+}
+#menu{
+  width: 1519px;
+  height: 1000px;
+}
+#aaaa{
+  width: 1519px;
+  height: 80px;
+  outline: 2px solid #000;
+}
+#footer{
+  width: 1519px;
+  height: 280px;
+}
+#asa{
+width: 1519px;
+height: 1000px;
+background-image: url(20.png);
+}
+
+#eklmn{
+  width: 1519px;
+  height: 1000px;
+  outline: 2px solid #000;
+}
+  x
